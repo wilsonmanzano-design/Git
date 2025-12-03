@@ -7,3 +7,4 @@ string palabra = Console.ReadLine()!;
 int[] vector = new vector[5];
 int[] vector2 = new vector[5];
 string[,] matriz = new string[5,5];
+int num;
