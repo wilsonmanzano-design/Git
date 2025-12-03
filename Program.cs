@@ -4,3 +4,4 @@ Console.WriteLine("ingrese un numero");
 int numero = Conver.ToInt32(Console.ReadLine());
 Console.WriteLine("ingrese una palabra");
 string palabra = Console.ReadLine()!;
+int[] vector = new vector[5];
